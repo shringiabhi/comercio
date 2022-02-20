@@ -10,6 +10,7 @@ from matplotlib import pyplot as plt
 from sgn_strategies import SmaCross,TestStrategy,DipStrategy
 from data import Data
 from alpaca_backtrader import data
+a=1
 #Specifying start and end
 end = "2020-05-06"
 start = "2020-05-04"
